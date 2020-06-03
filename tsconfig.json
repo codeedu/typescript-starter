@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "public",
+    "module": "es6",
+    "target": "es5",
+    "sourceMap": true,
+    "allowJs": true,
+    "allowSyntheticDefaultImports": true
+  }
+}
