@@ -35,6 +35,8 @@ Isto pode desestimular seu uso ou desincentivar quem está começando, pois orga
 
 Este pacote é uma forma produtiva de se começar com TypeScript.
 
+Veja o vídeo no nosso canal do Youtube para entender mais detalhes: [https://www.youtube.com/watch?v=9qJT3t9syFM](https://www.youtube.com/watch?v=9qJT3t9syFM)
+
 ## Instalação
 
 * Node.js
