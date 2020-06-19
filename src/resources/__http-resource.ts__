@@ -1,0 +1,27 @@
+import { AxiosInstance, AxiosResponse } from "axios";
+import { User } from "../models";
+
+
+export default class HttpResource{
+
+    constructor(protected http: AxiosInstance, protected resource: string){
+
+    }
+
+    //{ data: [ {}, {}, {}  ] }
+    list<T = any>(): Promise<AxiosResponse<T>>{ //Generic
+        return this.http.get(this.resource);
+    }
+
+    create(){
+
+    }
+
+    update(){
+
+    }
+
+    delete(){
+        
+    }
+}

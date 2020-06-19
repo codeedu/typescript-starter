@@ -4,3 +4,11 @@ export interface User{
     body: string;
     userId: number;
 }
+
+export interface Product{
+
+}
+
+export interface Category{
+    
+}
