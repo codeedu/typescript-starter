@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/axios": "^0.14.0",
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "ts-loader": "^7.0.5",
